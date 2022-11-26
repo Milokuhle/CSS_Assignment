@@ -1,0 +1,40 @@
+div {
+    background-color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 30px;
+    padding: 40px;
+}
+
+img {
+    border-radius: 25%;
+    width: 200px;
+    height: auto;
+}
+
+#about {
+    color:rgb(139, 52, 52);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#myID {
+    color:rgb(121, 38, 100);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.heading {
+    background-color: darkgrey;
+    font-family: cursive;
+    font-size: 30px;
+    border: 10px solid black;
+}
+
+.about {
+    background-color: bisque;
+    padding: 10px;
+    margin: 30px;
+}
